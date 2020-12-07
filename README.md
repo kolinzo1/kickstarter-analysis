@@ -18,10 +18,10 @@ The analysis also reveals that projects with smaller goals had ahigher success r
 
 ## Results
 
-- 1. The best time to launch a theater crowdfunding project is in the month of May 2. A lauch date between April and August has a high probability for success.
+* 1. The best time to launch a theater crowdfunding project is in the month of May<br/> 2. A lauch date between April and August has a high probability for success.
 
-- a crowdfunding project for Plays with a goal of $5000 or less has a very high probability of success.
+* a crowdfunding project for Plays with a goal of $5000 or less has a very high probability of success.
 
-- One of the limitations of the dataset is that it doesn't show if all projects in the same category had similar exposure to the public or if there were some other<br/> factors that determined how much publicity a project received.
+* One of the limitations of the dataset is that it doesn't show if all projects in the same category had similar exposure to the public or if there were some other<br/> factors that determined how much publicity a project received.
 
-- We could also make a table for number of backers for each category or sub-category to determine which projects are more popular.
+* We could also make a table for number of backers for each category or sub-category to determine which projects are more popular.
