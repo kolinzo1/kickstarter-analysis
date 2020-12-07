@@ -16,8 +16,6 @@ The analysis of the kickstarter data reveals that theater projects created in Ma
 The analysis also reveals that projects with smaller goals had ahigher success rates than those with large goals. Particularly, projects with goals less than $5000 were<br/> more than 70% successful. However, the relationship between project goal and success rate is not entirely linear through the range of goals.
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
-
 ## Results
 
 - 1. The best time to launch a theater crowdfunding project is in the month of May 2. A lauch date between April and August has a high probability for success.
